@@ -11,7 +11,7 @@ class spyTest {
 	}
 
 	@Test
-	void test() {
+	void teste() {
 		assertTrue(spy.spyy(123));
 		
 	}
