@@ -19,9 +19,9 @@ steps{
 sh 'mvn compile'
 }
 }
-stage('test-compile'){
+stage('test compile'){
 steps{
-sh 'mvn test-compile'
+sh 'mvn test compile'
 }
 }
 stage('test'){
