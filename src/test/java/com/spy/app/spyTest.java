@@ -12,7 +12,7 @@ class spyTest {
 
 	@Test
 	void teste() {
-		assertTrue(spy.spyy(1234));
+		assertTrue(spy.spyy(12354));
 		
 	}
 
